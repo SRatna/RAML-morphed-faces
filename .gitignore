@@ -1,0 +1,5 @@
+__pycache__
+.ipynb_checkpoints
+.vscode
+mnist_train.csv
+resnet50_ft_dims_2048.pth
