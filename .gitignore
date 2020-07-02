@@ -3,3 +3,4 @@ __pycache__
 .vscode
 mnist_train.csv
 resnet50_ft_dims_2048.pth
+morphs
